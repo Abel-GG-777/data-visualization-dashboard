@@ -4,7 +4,9 @@
 
 Repositorio: https://github.com/Abel-GG-777/data-visualization-dashboard
 
-Aplicación: **[PENDIENTE: insertar la URL real de Streamlit Community Cloud]**
+Aplicación: [Dashboard de ventas](https://data-visualization-dashboard-jpt3fabxdqga8bmmmwjvvt.streamlit.app)
+
+URL proporcionada por el propietario tras configurar el despliegue. La comprobación remota recibió HTTP 200 con contenido HTML; esto no confirma el funcionamiento de la interfaz ni de los filtros, cuya revisión pública sigue pendiente.
 
 Un dashboard permite explorar preguntas concretas: ¿cómo evolucionan las ventas?, ¿qué categorías concentran ingresos?, ¿qué regiones generan más ganancias? Este proyecto implementa ese recorrido con Python, Streamlit y Plotly, desde los datos hasta la preparación del despliegue.
 
@@ -46,4 +48,4 @@ El workflow de GitHub Actions cumple otra función: ejecutar compilación y prue
 
 ## Estado antes de publicar este artículo
 
-El proyecto incluye la implementación y la preparación del despliegue. La publicación pública y su URL siguen pendientes de los pasos del propietario de la cuenta. Antes de publicar este texto hay que añadir la URL verificada, revisar la experiencia real de despliegue y completar cualquier resultado de validación con evidencia. No se afirma que el despliegue haya ocurrido.
+El proyecto incluye la implementación y la configuración necesaria para el despliegue. El propietario ha proporcionado la URL de Community Cloud enlazada al inicio. Antes de publicar este texto hay que comprobar la interfaz y los filtros en esa URL sin iniciar sesión, revisar la experiencia real de despliegue y completar cualquier resultado de validación con evidencia. El artículo continúa como borrador sin publicar.

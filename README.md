@@ -4,7 +4,9 @@ Dashboard de ventas en español con Python, Streamlit y Plotly. **Datos de demos
 
 Repositorio: https://github.com/Abel-GG-777/data-visualization-dashboard
 
-Aplicación pública: **[PENDIENTE: añadir la URL real después del despliegue]**.
+Aplicación: [Abrir dashboard de ventas](https://data-visualization-dashboard-jpt3fabxdqga8bmmmwjvvt.streamlit.app).
+
+URL proporcionada por el propietario tras configurar el despliegue. La dirección respondió HTTP 200 durante la comprobación remota, pero la revisión de la interfaz pública y sus filtros sigue pendiente.
 
 ## Instalación y ejecución
 
